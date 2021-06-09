@@ -1,2 +1,2 @@
 # Serializer
-A naive serializeation implementation with C++ templates
+A naive serializeation implementation with C++ templates.
